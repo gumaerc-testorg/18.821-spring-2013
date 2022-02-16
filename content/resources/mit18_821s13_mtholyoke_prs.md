@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains a presentation delivered for "New Directions for
   Mathematics REUs" at Mount Holyoke.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-821-project-laboratory-in-mathematics-spring-2013/4939ffc0002c38e3cf9a046667203e21_MIT18_821S13_MtHolyoke_prs.pdf
+file: /media/courses/18-821-project-laboratory-in-mathematics-spring-2013/4939ffc0002c38e3cf9a046667203e21_MIT18_821S13_MtHolyoke_prs.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Related Resources
+parent_type: CourseSection
 resourcetype: Document
 title: A Project Laboratory in Mathematics, Mount Holyoke Presentation
 uid: 4939ffc0-002c-38e3-cf9a-046667203e21

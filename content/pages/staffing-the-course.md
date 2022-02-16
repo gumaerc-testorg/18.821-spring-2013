@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Staffing the Course
 uid: 36bb3771-5bb7-c4c1-610a-c4293a1af273
 ---

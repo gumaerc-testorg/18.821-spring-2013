@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding MtHolyoke presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-821-project-laboratory-in-mathematics-spring-2013/025c341c3f6bdcd9ab93e897f034ec6a_MIT18_821S13_NeXT_prs.pdf
+file: /media/courses/18-821-project-laboratory-in-mathematics-spring-2013/025c341c3f6bdcd9ab93e897f034ec6a_MIT18_821S13_NeXT_prs.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Related Resources
+parent_type: CourseSection
 resourcetype: Document
 title: "Supporting Teamwork In MIT\u2019s Project Lab In Mathematic"
 uid: 025c341c-3f6b-dcd9-ab93-e897f034ec6a

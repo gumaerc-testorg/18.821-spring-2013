@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Writing
+parent_type: CourseSection
 parent_uid: cc51014f-c167-ecae-32e3-b7759a8b851d
 title: Revision and Feedback
 uid: 8ec3e99d-a6f3-dfc0-93ba-e5789366aed0

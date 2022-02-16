@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Mathematical Work
 uid: f21a7861-47b6-486b-a460-278ead9efa0a
 ---

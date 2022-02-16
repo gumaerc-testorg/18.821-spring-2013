@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Presentations
 uid: 85842b7f-8825-8ff1-fd12-52420523d316
 ---

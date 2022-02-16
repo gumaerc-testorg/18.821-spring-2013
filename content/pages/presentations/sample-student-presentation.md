@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Presentations
+parent_type: CourseSection
 parent_uid: 85842b7f-8825-8ff1-fd12-52420523d316
 title: Sample Student Presentation
 uid: fa0f8ae6-a7c9-e08b-92ca-77cdebecb9ed

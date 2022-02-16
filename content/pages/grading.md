@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Grading
 uid: 6d3bec05-d850-9c0b-0589-06d3c7fcaed0
 ---

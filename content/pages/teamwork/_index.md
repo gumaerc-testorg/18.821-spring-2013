@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Teamwork
 uid: 1790141c-cb89-cb9c-3927-269166af5cac
 ---

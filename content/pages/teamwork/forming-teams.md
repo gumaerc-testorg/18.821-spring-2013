@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Teamwork
+parent_type: CourseSection
 parent_uid: 1790141c-cb89-cb9c-3927-269166af5cac
 title: Forming Teams
 uid: 2edd45cf-e176-acaf-956e-1caebc5239e0

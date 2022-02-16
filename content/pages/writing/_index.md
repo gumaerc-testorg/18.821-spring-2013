@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Writing
 uid: cc51014f-c167-ecae-32e3-b7759a8b851d
 ---

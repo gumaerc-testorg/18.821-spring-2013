@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: 'Background image of presentation workshop video. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-821-project-laboratory-in-mathematics-spring-2013/5f7b4a67fc18273c2fd2c2515bf01a7c_MIT18_821S13_pres_wksp_bg.jpg
+file: /media/courses/18-821-project-laboratory-in-mathematics-spring-2013/5f7b4a67fc18273c2fd2c2515bf01a7c_MIT18_821S13_pres_wksp_bg.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: Instructor delivering a presentation.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Presentation Workshop Background
 uid: 5f7b4a67-fc18-273c-2fd2-c2515bf01a7c

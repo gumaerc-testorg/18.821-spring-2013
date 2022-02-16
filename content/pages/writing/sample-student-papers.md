@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Writing
+parent_type: CourseSection
 parent_uid: cc51014f-c167-ecae-32e3-b7759a8b851d
 title: Sample Student Papers
 uid: 17bb2e38-7431-d4ad-29c7-4334834f27fa
