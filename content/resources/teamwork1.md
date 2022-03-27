@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Teamwork
 parent_type: CourseSection
+parent_uid: 1790141c-cb89-cb9c-3927-269166af5cac
 resourcetype: Image
 title: teamwork1.jpg
 uid: c4c2f623-11ab-80db-ed8d-198c9f40966b

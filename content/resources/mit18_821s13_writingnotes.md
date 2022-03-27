@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Writing
 parent_type: CourseSection
+parent_uid: cc51014f-c167-ecae-32e3-b7759a8b851d
 resourcetype: Document
 title: Notes on Writing Mathematics
 uid: f6ac4c7f-88f9-d394-0b6d-8511ef55e386

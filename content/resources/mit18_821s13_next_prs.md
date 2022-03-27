@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: bbed0b6c-69d3-1968-3035-f0a8f3754621
 resourcetype: Document
 title: "Supporting Teamwork In MIT\u2019s Project Lab In Mathematic"
 uid: 025c341c-3f6b-dcd9-ab93-e897f034ec6a

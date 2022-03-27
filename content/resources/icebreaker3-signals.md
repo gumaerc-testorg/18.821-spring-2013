@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Teamwork
 parent_type: CourseSection
+parent_uid: 1790141c-cb89-cb9c-3927-269166af5cac
 resourcetype: Image
 title: icebreaker3-signals.jpg
 uid: a962ad8c-90af-e197-cafb-60e3326efcf5

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Writing
 parent_type: CourseSection
+parent_uid: cc51014f-c167-ecae-32e3-b7759a8b851d
 resourcetype: Document
 title: An Annotated Journal Article
 uid: 7c76f6f1-dfa0-5c17-e5b5-adf9545e5944

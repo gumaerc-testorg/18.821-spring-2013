@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Practice and Feedback
 parent_type: CourseSection
+parent_uid: 4c6b7d2d-d051-2066-919e-1154a5f1910a
 resourcetype: Document
 title: Select Student Response Sheets for Sample Presentation 1
 uid: 89a49782-a2cb-4020-6b38-6a342f999c02

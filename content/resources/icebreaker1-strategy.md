@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Teamwork
 parent_type: CourseSection
+parent_uid: 1790141c-cb89-cb9c-3927-269166af5cac
 resourcetype: Image
 title: icebreaker1-strategy.jpg
 uid: 3e10bc5f-1346-6122-4895-e46338c7c470

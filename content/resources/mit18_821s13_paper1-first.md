@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Sample Student Papers
 parent_type: CourseSection
+parent_uid: 17bb2e38-7431-d4ad-29c7-4334834f27fa
 resourcetype: Document
 title: First Draft of Sample Paper 1
 uid: 7f98cedb-4fe9-cf17-69a3-f9ad60b7dd66

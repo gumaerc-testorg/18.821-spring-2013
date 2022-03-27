@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Writing
 parent_type: CourseSection
+parent_uid: cc51014f-c167-ecae-32e3-b7759a8b851d
 resourcetype: Document
 title: The 18.821 Project Report
 uid: 7f3b869f-0133-f516-706c-8266c1692376

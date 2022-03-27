@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Presentations
 parent_type: CourseSection
+parent_uid: 85842b7f-8825-8ff1-fd12-52420523d316
 resourcetype: Document
 title: Characteristics of an Effective Undergraduate Research Talk
 uid: 97927724-3a4f-fb6d-8e30-9885bf88653b

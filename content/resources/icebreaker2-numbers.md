@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Teamwork
 parent_type: CourseSection
+parent_uid: 1790141c-cb89-cb9c-3927-269166af5cac
 resourcetype: Image
 title: icebreaker2-numbers.jpg
 uid: fe5ac6f5-4508-e2f0-3cd8-b65f9731070b

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Grading
 parent_type: CourseSection
+parent_uid: 6d3bec05-d850-9c0b-0589-06d3c7fcaed0
 resourcetype: Document
 title: Fall 2013 Paper Rubric
 uid: a54572cb-41e1-57d0-d066-8d21b9b4e810

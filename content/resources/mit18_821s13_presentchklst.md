@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Grading
 parent_type: CourseSection
+parent_uid: 6d3bec05-d850-9c0b-0589-06d3c7fcaed0
 resourcetype: Document
 title: Presentation Checklist
 uid: 365d3048-16fa-8693-cc6f-80d5af887818

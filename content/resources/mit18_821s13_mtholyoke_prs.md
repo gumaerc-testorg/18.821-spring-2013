@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: bbed0b6c-69d3-1968-3035-f0a8f3754621
 resourcetype: Document
 title: A Project Laboratory in Mathematics, Mount Holyoke Presentation
 uid: 4939ffc0-002c-38e3-cf9a-046667203e21

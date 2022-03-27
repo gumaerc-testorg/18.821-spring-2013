@@ -16,6 +16,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Teamwork
 parent_type: CourseSection
+parent_uid: 1790141c-cb89-cb9c-3927-269166af5cac
 resourcetype: Image
 title: icebreaker4-sort.jpg
 uid: 5bb2b932-9275-4baa-2126-0c2fbc1503e1

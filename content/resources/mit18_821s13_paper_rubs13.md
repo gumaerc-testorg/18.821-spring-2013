@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Grading
 parent_type: CourseSection
+parent_uid: 6d3bec05-d850-9c0b-0589-06d3c7fcaed0
 resourcetype: Document
 title: 'Spring 2013 Writing Rubric '
 uid: 4de0d0c3-512d-6ef3-3592-83ff2c4dcaf1

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Sample Student Papers
 parent_type: CourseSection
+parent_uid: 17bb2e38-7431-d4ad-29c7-4334834f27fa
 resourcetype: Document
 title: Final Version of Sample Paper 1
 uid: 762c9018-ac13-42d6-03fc-acd59ad853b1

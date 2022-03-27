@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Writing
 parent_type: CourseSection
+parent_uid: cc51014f-c167-ecae-32e3-b7759a8b851d
 resourcetype: Other
 title: latex_sample.tex
 uid: 075dbce2-0e0a-afda-5ef5-edc0905cfa4b

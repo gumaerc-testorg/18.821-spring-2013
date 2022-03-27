@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Mathematical Work
 parent_type: CourseSection
+parent_uid: f21a7861-47b6-486b-a460-278ead9efa0a
 resourcetype: Document
 title: 'Project Description: Number Squares'
 uid: c9ba2d0a-6090-fd2c-6f55-391ef27c1756

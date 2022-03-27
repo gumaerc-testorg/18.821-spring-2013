@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Grading
 parent_type: CourseSection
+parent_uid: 6d3bec05-d850-9c0b-0589-06d3c7fcaed0
 resourcetype: Document
 title: Fall 2013 Presentation Rubric
 uid: 03784053-47be-a05b-8b57-0414ab24c0d4

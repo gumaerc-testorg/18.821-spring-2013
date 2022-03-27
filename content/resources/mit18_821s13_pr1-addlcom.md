@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Sample Student Papers
 parent_type: CourseSection
+parent_uid: 17bb2e38-7431-d4ad-29c7-4334834f27fa
 resourcetype: Document
 title: Additional Comments on Sample Paper 1 from Prof. Haynes Miller
 uid: 0aa5309b-ce14-6a8c-db17-b24dc405ca9c
