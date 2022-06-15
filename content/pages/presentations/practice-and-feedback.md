@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Prof. Haynes Miller and Susan Ruff explain their use
+  of practice presentations as well as how teams receive feedback on their presentations
+  from both faculty and peers.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Presentations
@@ -9,7 +12,7 @@ title: Practice and Feedback
 uid: 4c6b7d2d-d051-2066-919e-1154a5f1910a
 ---
 
-[« Previous: Presentations]({{< baseurl >}}/pages/presentations) | [Next: Sample Student Presentation »]({{< baseurl >}}/pages/presentations/sample-student-presentation)
+{{% resource_link 85842b7f-8825-8ff1-fd12-52420523d316 "« Previous: Presentations" %}} | {{% resource_link fa0f8ae6-a7c9-e08b-92ca-77cdebecb9ed "Next: Sample Student Presentation »" %}}
 
 _In this section, Prof. Haynes Miller and Susan Ruff explain their use of practice presentations as well as how teams receive feedback on their presentations from both faculty and peers._
 
@@ -51,8 +54,8 @@ Students made comments in the following categories:
 
 The students had the option of signing the response form on the front, if they were willing to let others see their names attached to their comments, or they could sign the form on the back, if they didn't want their names attached to their comments. At the end of class, we collected these sheets, scanned the fronts, sent them to the presenters, and posted them on the course website. Most students chose to have their name visible, and the comments were generally quite constructive and astute. We do not have quantitative evidence on the impact of these forms, but we had the feeling that they helped students be more engaged in their classmates’ talks and reflective about what makes a good talk. We hope the feedback was useful both to the presenters and to groups that presented later in the semester.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Select Student Response Sheets for Sample Presentation (PDF)]({{< baseurl >}}/resources/mit18_821s13_student_res) (Courtesy of MIT students. Used with permission.)
+{{% resource_link 89a49782-a2cb-4020-6b38-6a342f999c02 "Select Student Response Sheets for Sample Presentation (PDF)" %}} (Courtesy of MIT students. Used with permission.)
 
 The peer response sheets also served as an indication of attendance. Ten percent of the presentation grade was allocated to an attendance mark. Attendance was in fact quite high, and students often wrote to Haynes in advance if they had to be absent. In one case a student watched a flip-cam recording of a presentation he had to miss. We think the high attendance was largely a function of the high quality of the presentations, since all the teams gave very good presentations.
 
-[« Previous: Presentations]({{< baseurl >}}/pages/presentations) | [Next: Sample Student Presentation »]({{< baseurl >}}/pages/presentations/sample-student-presentation)
+{{% resource_link 85842b7f-8825-8ff1-fd12-52420523d316 "« Previous: Presentations" %}} | {{% resource_link fa0f8ae6-a7c9-e08b-92ca-77cdebecb9ed "Next: Sample Student Presentation »" %}}

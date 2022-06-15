@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Haynes Miller and Susan Ruff describe their approach
+  to grading and the development of grading rubrics for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Grading
@@ -142,18 +144,18 @@ Grading rubrics are useful for maintaining standards and consistency. They are e
 
 The writing rubric we used in Spring 2013 was derived from a form used by Haynes the previous time he taught the course, in Spring 2007. We attempted to break down the components of a paper as finely as possible in order to help us assess all the aspects of a successful piece of work. Our rubric identified characteristics ranging from broad (e.g., Are the different parts of the paper in place? Do they perform their function correctly?) to fine (e.g., Are mathematical terms and symbols used correctly?) We were not happy with this rubric because we generally found that each component was more or less okay in isolation, and total grades were fairly high, but the grades did not necessarily reflect the overall quality of the papers.
 
-[Spring 2013 Paper Rubric (PDF)]({{< baseurl >}}/resources/mit18_821s13_paper_rubs13)
+{{% resource_link 4de0d0c3-512d-6ef3-3592-83ff2c4dcaf1 "Spring 2013 Paper Rubric (PDF)" %}}
 
 A key challenge in grading presentations is that there are many different good ways to present mathematics. For example, using slides and using the blackboard are both valid and common ways for mathematicians to communicate their ideas. We developed a checklist, posted it on the course website, and used it as a framework for assigning grades. Staff usually completed the student response sheets, which were published with the others. After each presentation, all instructors sent their thoughts on the presentation and proposed grades to Haynes, and he compiled that feedback to generate a final presentation grade.
 
-[Spring 2013 Presentation Checklist (PDF)]({{< baseurl >}}/resources/mit18_821s13_presentchklst)
+{{% resource_link 365d3048-16fa-8693-cc6f-80d5af887818 "Spring 2013 Presentation Checklist (PDF)" %}}
 
-Select student response sheets are available on the [Practice and Feedback]({{< baseurl >}}/pages/presentations/practice-and-feedback) page.
+Select student response sheets are available on the {{% resource_link 4c6b7d2d-d051-2066-919e-1154a5f1910a "Practice and Feedback" %}} page.
 
 ### Fall 2013
 
 In Fall 2013, Prof. Larry Guth, who was the lead instructor, and Susan developed new rubrics for the course. These rubrics were built upon an [extensive list of characteristics of effective mathematics communication](http://mathcomm.org/general-principles-of-communicating-math/jmm-2013-minicourse-teaching-and-assessing-math-communication/) derived from the Spring 2013 course and earlier versions of the subject, with ideas emerging from a workshop conducted by Susan, Joel Lewis (co-instructor in Spring 2011, now at the University of Minnesota) and Mia Minnes (UCSD) at the 2013 Joint Mathematics Meetings.
 
-[Fall 2013 Paper Rubric (PDF)]({{< baseurl >}}/resources/mit18_821s13_paper_rubf13) (Courtesy of Susan Ruff and Prof. Larry Guth. Used with permission.)
+{{% resource_link a54572cb-41e1-57d0-d066-8d21b9b4e810 "Fall 2013 Paper Rubric (PDF)" %}} (Courtesy of Susan Ruff and Prof. Larry Guth. Used with permission.)
 
-[Fall 2013 Presentation Rubric (PDF)]({{< baseurl >}}/resources/mit18_821s13_pres_rubric) (Courtesy of Susan Ruff and Prof. Larry Guth. Used with permission.)
+{{% resource_link 03784053-47be-a05b-8b57-0414ab24c0d4 "Fall 2013 Presentation Rubric (PDF)" %}} (Courtesy of Susan Ruff and Prof. Larry Guth. Used with permission.)

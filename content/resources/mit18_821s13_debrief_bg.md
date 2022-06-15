@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Background image of debriefing video. '
-file: /media/courses/18-821-project-laboratory-in-mathematics-spring-2013/810aff5ace1d4fcd1ac8ec913bd3ad02_MIT18_821S13_debrief_bg.jpg
+file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/810aff5ace1d4fcd1ac8ec913bd3ad02_MIT18_821S13_debrief_bg.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -13,3 +13,5 @@ resourcetype: Image
 title: Debriefing Background
 uid: 810aff5a-ce1d-4fcd-1ac8-ec913bd3ad02
 ---
+Background image of debriefing video. 
+

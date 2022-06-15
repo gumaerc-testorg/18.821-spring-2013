@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on student enrollment in the course,
+  prerequisites, course components, research, and course projects.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Logistics

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides an example of a practice and final student presentation.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Presentations
@@ -9,14 +10,14 @@ title: Sample Student Presentation
 uid: fa0f8ae6-a7c9-e08b-92ca-77cdebecb9ed
 ---
 
-[« Previous: Practice and Feedback]({{< baseurl >}}/pages/presentations/practice-and-feedback)
+{{% resource_link 4c6b7d2d-d051-2066-919e-1154a5f1910a "« Previous: Practice and Feedback" %}}
 
 To illustrate the development and delivery of the student presentations, videos of a sample practice presentation and final presentation are below.
 
 Sample Presentation: The Dynamics of Successive Differences Over ℤ and ℝ
 ------------------------------------------------------------------------
 
-This project developed from the project description for [Number Squares (PDF)]({{< baseurl >}}/resources/mit18_821s13_pjct_num_sq). To read the paper produced by this team of students and to view the debriefing video, see the [Sample Student Papers]({{< baseurl >}}/pages/writing/sample-student-papers) page.
+This project developed from the project description for {{% resource_link c9ba2d0a-6090-fd2c-6f55-391ef27c1756 "Number Squares (PDF)" %}}. To read the paper produced by this team of students and to view the debriefing video, see the {{% resource_link 17bb2e38-7431-d4ad-29c7-4334834f27fa "Sample Student Papers" %}} page.
 
 The presentations below are courtesy of Yida Gao, Matt Redmond, and Zach Steward. Used with permission.
 
@@ -32,4 +33,4 @@ This video features the student team's practice presentation. After each individ
 
 This video features the student team's final presentation delivered in class.
 
-[« Previous: Practice and Feedback]({{< baseurl >}}/pages/presentations/practice-and-feedback)
+{{% resource_link 4c6b7d2d-d051-2066-919e-1154a5f1910a "« Previous: Practice and Feedback" %}}
