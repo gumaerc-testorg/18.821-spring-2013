@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Students standing in a row while receiving number assignments from the
     professor.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Teamwork
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: icebreaker2-numbers.jpg
 uid: fe5ac6f5-4508-e2f0-3cd8-b65f9731070b
 ---
 When planning time ended, each student was given a number with varying values, magnitude, and sign. Image courtesy of MIT OpenCourseWare.
-

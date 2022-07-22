@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: Instructor delivering a presentation.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Presentation Workshop Background
 uid: 5f7b4a67-fc18-273c-2fd2-c2515bf01a7c
 ---
 Background image of presentation workshop video. 
-

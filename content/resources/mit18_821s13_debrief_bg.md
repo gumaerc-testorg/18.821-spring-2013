@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: Students in discussion with instructors.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Debriefing Background
 uid: 810aff5a-ce1d-4fcd-1ac8-ec913bd3ad02
 ---
 Background image of debriefing video. 
-

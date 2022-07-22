@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Two blindfolded students trying to communicate through hand signals.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Teamwork
 parent_type: CourseSection
@@ -19,5 +20,3 @@ title: icebreaker3-signals.jpg
 uid: a962ad8c-90af-e197-cafb-60e3326efcf5
 ---
 Each team employed a variety of strategies, including making hand signals and using sounds as indications. Image courtesy of MIT OpenCourseWare.
-
-

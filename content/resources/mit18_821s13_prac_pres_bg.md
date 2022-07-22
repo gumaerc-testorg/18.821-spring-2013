@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: Student delivering presentation.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Practice Presentation Background
 uid: d2f867d9-bbed-655f-f760-5c141272e207
 ---
 Background image of student practice presentation video. 
-

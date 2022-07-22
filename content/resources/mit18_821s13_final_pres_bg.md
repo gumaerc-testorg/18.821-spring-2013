@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: Student delivering presentation.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Final Presentation Background
 uid: 15f533fa-406f-33dc-7bec-ae06095027cd
 ---
 Background image of student final presentation video. 
-

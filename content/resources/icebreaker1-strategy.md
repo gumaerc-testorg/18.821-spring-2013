@@ -11,6 +11,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: A group of eight students standing in a discussion circle.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Teamwork
 parent_type: CourseSection
@@ -20,5 +21,3 @@ title: icebreaker1-strategy.jpg
 uid: 3e10bc5f-1346-6122-4895-e46338c7c470
 ---
 After being divided into teams, students were given time to discuss strategy briefly before the actual activity. Image courtesy of MIT OpenCourseWare.
-
-

@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: Professor lecturing to class.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: First Class Session Background
 uid: 9b70a7a4-9cb3-a743-7a21-17523ff79493
 ---
 Background image of first class session video. 
-

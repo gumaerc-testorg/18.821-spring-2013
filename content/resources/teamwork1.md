@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Four people working over papers laid out on a desk.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Teamwork
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: teamwork1.jpg
 uid: c4c2f623-11ab-80db-ed8d-198c9f40966b
 ---
 A team of students working together on mathematical exploration of their research topic. Image courtesy of MIT OpenCourseWare.
-
