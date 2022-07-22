@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: In this section, Prof. Haynes Miller and Susan Ruff describe the criteria
+  for presentations and the components of the presentation workshop.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Presentations
 uid: 85842b7f-8825-8ff1-fd12-52420523d316
 ---
 
-[Next: Practice and Feedback »]({{< baseurl >}}/pages/presentations/practice-and-feedback)
+{{% resource_link 4c6b7d2d-d051-2066-919e-1154a5f1910a "Next: Practice and Feedback »" %}}
 
 _In this section, Prof. Haynes Miller and Susan Ruff describe the criteria for presentations and the components of the presentation workshop._
 
@@ -15,7 +19,7 @@ Criteria for Good Presentations
 
 Effective presentations provide motivation, communicate intuition, and stimulate interest, all while being mathematically accurate and informative. As is true with their experience with mathematical writing, many students do not enter the course in possession of the tools to do much more than present the facts. For example, students often come to practice presentations with the mistaken belief that a mathematical presentation must be extremely formal throughout, every term must be rigorously defined, all facts must be proven, and pictures are too infantile for this level of presentation. We try to counter these preconceptions and urge flexibility and a sense of appropriateness: sometimes things need to be presented rigorously and formally, but sometimes a picture, conceptual explanation, or example is much more effective.
 
-[Characteristics of an Effective Undergraduate Research Talk (PDF)]({{< baseurl >}}/resources/mit18_821s13_presentnotes)
+{{% resource_link 97927724-3a4f-fb6d-8e30-9885bf88653b "Characteristics of an Effective Undergraduate Research Talk (PDF)" %}}
 
 Presentation Workshop
 ---------------------
@@ -24,7 +28,7 @@ For the presentation workshop, which typically lasts 50 to 80 minutes, we begin 
 
 To help students recognize the value of the second presentation relative to the first, after each presentation we ask the students a question designed to check their understanding of the content. The goal is to allow students to discover their natural tendency to overlook weaknesses in presentations. When they try to answer questions about it, they may discover that they got less from it than they had thought. The second presentation is then intended to offer a more understandable approach to the same material. Of course it's the second time students will have heard this material, so they will naturally understand it better. But this serves a pedagogical purpose too, as it reinforces our point.
 
-We follow the presentations with a class discussion on how to give a good presentation. Carefully designing two mock presentations has the virtue of drawing attention to key learning objectives, but doing so is challenging. In Spring 2013, each mock presentation was delivered by a different instructor and so had different advantages and disadvantages, as is stressed by [Haynes' comments on the workshop (PDF)]({{< baseurl >}}/resources/mit18_821s13_pstwkspnotes). In the past we have reduced accidental differences between the presentations by having a single instructor present both, and we may return to that approach in the future.
+We follow the presentations with a class discussion on how to give a good presentation. Carefully designing two mock presentations has the virtue of drawing attention to key learning objectives, but doing so is challenging. In Spring 2013, each mock presentation was delivered by a different instructor and so had different advantages and disadvantages, as is stressed by {{% resource_link 9135873a-3d4e-b8aa-fe23-6e3fded78efa "Haynes' comments on the workshop (PDF)" %}}. In the past we have reduced accidental differences between the presentations by having a single instructor present both, and we may return to that approach in the future.
 
 After the mock presentations, the class discusses the characteristics of a good presentation. Questions we discuss often include the following:
 
@@ -55,4 +59,4 @@ A Note about Scheduling
 
 In the course, roughly one group presents each week. Experience has shown that the first team to present sets the bar for the rest of the semester. It is important that the first team be chosen carefully and be guided well so that they give a strong presentation.
 
-[Next: Practice and Feedback »]({{< baseurl >}}/pages/presentations/practice-and-feedback)
+{{% resource_link 4c6b7d2d-d051-2066-919e-1154a5f1910a "Next: Practice and Feedback »" %}}

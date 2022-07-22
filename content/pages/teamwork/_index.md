@@ -1,20 +1,25 @@
 ---
 content_type: page
+description: In this section, Prof. Haynes Miller and Susan Ruff describe the team-based
+  nature of the course as well as a workshop designed to guide students toward successful
+  collaboration.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Teamwork
 uid: 1790141c-cb89-cb9c-3927-269166af5cac
 ---
 
-[Next: Forming Teams »]({{< baseurl >}}/pages/teamwork/forming-teams)
+{{% resource_link 2edd45cf-e176-acaf-956e-1caebc5239e0 "Next: Forming Teams »" %}}
 
 _In this section, Prof. Haynes Miller and Susan Ruff describe the team-based nature of the course as well as a workshop designed to guide students toward successful collaboration._
 
 Mathematicians often collaborate with each other, so the course is structured to give students a taste of not only research, but also research collaboration.
 
-The 27 students are grouped into nine teams that stay together throughout the semester. The various strategies that have been used to create student teams are further described on the [Forming Teams]({{< baseurl >}}/pages/teamwork/forming-teams) page.
+The 27 students are grouped into nine teams that stay together throughout the semester. The various strategies that have been used to create student teams are further described on the {{% resource_link 2edd45cf-e176-acaf-956e-1caebc5239e0 "Forming Teams" %}} page.
 
 Each team works differently. Often, each student takes on a different part of the work. For example, one student may develop a theory for addressing the problem in one dimension while another creates a computer simulation to explore the problem in two dimensions. The students typically work on their own for several days and then come together to compare notes. We are in favor of this collaboration strategy, since it mimics successful collaboration of professional mathematicians.
 
-![Four people working over papers laid out on a desk.]({{< resource_file c4c2f623-11ab-80db-ed8d-198c9f40966b >}})
+{{< resource c4c2f623-11ab-80db-ed8d-198c9f40966b >}}
 
 A team of students working together on mathematical exploration of their research topic. (Image courtesy of MIT OpenCourseWare.)
 
@@ -27,7 +32,7 @@ Teamwork can be challenging! We actually hope that students wrestle somewhat wit
 
 From a logistical standpoint, having the students work in teams is necessary to meet time and staffing constraints. On average, mentoring the research and writing of nine student groups requires almost 40 hours per week. Supporting 27 individual students would simply not be feasible. From the student perspective, working in a group enables the team to produce satisfying results in the short time available for each project.
 
-![A group of eight students standing in a discussion circle.]({{< resource_file 3e10bc5f-1346-6122-4895-e46338c7c470 >}})
+{{< resource 3e10bc5f-1346-6122-4895-e46338c7c470 >}}
 
 After being divided into teams, students discuss strategy briefly before the actual activity. (Image courtesy of MIT OpenCourseWare.)
 
@@ -40,7 +45,7 @@ The workshop begins with an icebreaker activity, in which students have a set am
 
 This activity is fun and starts the class on a good note. We alert the students to use the activity time to start thinking about past experiences in teams, so the activity also prepares them for the subsequent class discussion on teamwork.
 
-![Students standing in a row while receiving number assignments from the professor.]({{< resource_file fe5ac6f5-4508-e2f0-3cd8-b65f9731070b >}})
+{{< resource fe5ac6f5-4508-e2f0-3cd8-b65f9731070b >}}
 
 Prof. Haynes Miller hands out materials for the students to use in the challenge. (Image courtesy of MIT OpenCourseWare.)
 
@@ -52,7 +57,7 @@ The most important part of the teamwork workshop is the discussion. During the d
 
 The discussion is driven primarily by the students: when a student describes a possible teamwork issue, the other students are asked to suggest strategies for avoiding or addressing the issue. When a strategy is suggested, the class is asked to vote on whether they agree with the strategy and, if they disagree, to suggest alternatives. We use this structure because a main goal of the discussion is to convey the idea that different people have different teamwork styles—for example, some prefer to have a team leader while others prefer a more collaborative style—so it is important for each team to discuss teamwork expectations. Another goal of the class discussion is to expose students to a variety of strategies for handling common teamwork issues. The students often have remarkably good ideas for how to facilitate effective teamwork, but we suggest strategies as well. Some strategies are detailed below.
 
-![Two blindfolded students trying to communicate through hand signals.]({{< resource_file a962ad8c-90af-e197-cafb-60e3326efcf5 >}})
+{{< resource a962ad8c-90af-e197-cafb-60e3326efcf5 >}}
 
 Each team employs a variety of strategies, such as making hand signals and using sounds as indications. (Image courtesy of MIT OpenCourseWare.)
 
@@ -131,4 +136,4 @@ Past students have offered some helpful advice:
 *   “You are a team, and team members should help each other out. Stress of any sort can affect team dynamics, but be aware that if someone is being rude to you, there may be other factors that are contributing to that. Because you are working in teams, you implicitly have permission to be straightforward with each other and say, ‘You know, I have to say it and I’m uncomfortable about saying it, but I will anyway.’”
 *   “Be kind to your teammates. Answer email, even if only to say you got it and you will reply later.”
 
-[Next: Forming Teams »]({{< baseurl >}}/pages/teamwork/forming-teams)
+{{% resource_link 2edd45cf-e176-acaf-956e-1caebc5239e0 "Next: Forming Teams »" %}}

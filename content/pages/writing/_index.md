@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: In this section, Prof. Haynes Miller and Susan Ruff describe the criteria
+  for good mathematical writing and the components of the writing workshop.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Writing
 uid: cc51014f-c167-ecae-32e3-b7759a8b851d
 ---
 
-[Next: Revision and Feedback »]({{< baseurl >}}/pages/writing/revision-and-feedback)
+{{% resource_link 8ec3e99d-a6f3-dfc0-93ba-e5789366aed0 "Next: Revision and Feedback »" %}}
 
 _In this section, Prof. Haynes Miller and Susan Ruff describe_ __the criteria for good mathematical writing and the components of the writing workshop_._
 
@@ -38,39 +42,39 @@ Various resources are provided to help students learn effective mathematical wri
 
 The following prize-winning journal article was annotated to point out various conventions and strategies of mathematical writing. (Courtesy of Mathematical Association of America. Courtesy of a Creative Commons BY-NC-SA license.)
 
-[An Annotated Journal Article (PDF)]({{< baseurl >}}/resources/mit18_821s13_annotatedjrnl)
+{{% resource_link 7c76f6f1-dfa0-5c17-e5b5-adf9545e5944 "An Annotated Journal Article (PDF)" %}}
 
 This document introduces the structure of a paper and provides a miscellany of common mistakes to avoid.
 
-[Notes on Writing Mathematics (PDF)]({{< baseurl >}}/resources/mit18_821s13_writingnotes)
+{{% resource_link f6ac4c7f-88f9-d394-0b6d-8511ef55e386 "Notes on Writing Mathematics (PDF)" %}}
 
 LaTeX Resources
 ---------------
 
 The following PDF, TeX, and Beamer samples guide students to present their work using LaTeX, a high-quality typesetting system designed for the production of technical and scientific documentation. The content in the PDF and TeX documents highlights the structure of a generic student paper.
 
-[Sample PDF Document created by pdfLaTeX (PDF)]({{< baseurl >}}/resources/mit18_821s13_latexsample)
+{{% resource_link 41c70fc8-f822-ec95-3739-073e338142c7 "Sample PDF Document created by pdfLaTeX (PDF)" %}}
 
-[Sample TeX Document (TEX)]({{< baseurl >}}/resources/latex_sample)
+{{% resource_link 075dbce2-0e0a-afda-5ef5-edc0905cfa4b "Sample TeX Document (TEX)" %}}
 
-[Beamer template (TEX)]({{< baseurl >}}/resources/beamer_template)
+{{% resource_link f7828be5-7fa0-bb98-6e9f-506a5c22d2d5 "Beamer template (TEX)" %}}
 
 The following resources are provided to help students learn and use LaTeX.
 
 LaTeX-Project. "[Obtaining LaTeX](http://www.latex-project.org/ftp.html)." August 28, 2009.
 
-Downes, Michael. ["![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Short Math Guide for LaTeX." (PDF)](ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-guide.pdf) _American Mathematical Society_. Version 1.09. March 22, 2002.
+Downes, Michael. ["Short Math Guide for LaTeX." (PDF)](ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-guide.pdf) _American Mathematical Society_. Version 1.09. March 22, 2002.
 
-Oetiker, Tobias, Hubert Partl, et al. ["![This resource may not render correctly in a screen reader.](/images/inacessible.gif)The Not So Short Introduction to LaTeX 2ε." (PDF)](http://tobi.oetiker.ch/lshort/lshort.pdf) Version 5.01. April 06, 2011.
+Oetiker, Tobias, Hubert Partl, et al. ["The Not So Short Introduction to LaTeX 2ε." (PDF)](http://tobi.oetiker.ch/lshort/lshort.pdf) Version 5.01. April 06, 2011.
 
-Reckdahl, Keith. ["![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Using Imported Graphics in LaTeX and pdfLaTeX." (PDF)](http://tobi.oetiker.ch/lshort/lshort.pdf) Version 3.0.1. January 12, 2006.
+Reckdahl, Keith. ["Using Imported Graphics in LaTeX and pdfLaTeX." (PDF)](http://tobi.oetiker.ch/lshort/lshort.pdf) Version 3.0.1. January 12, 2006.
 
 Writing Workshop
 ----------------
 
 Each semester there is a writing workshop, led by the lead instructor, which features examples to stimulate discussion about how to write well. In Spring 2013, Haynes ran this workshop during the third class session and used the following slide deck, which was developed by Prof. Paul Seidel and modified with the help of Prof. Tom Mrowka and Prof. Richard Stanley.
 
-[The 18.821 Project Report (PDF)]({{< baseurl >}}/resources/mit18_821s13_writingslides)
+{{% resource_link 7f3b869f-0133-f516-706c-8266c1692376 "The 18.821 Project Report (PDF)" %}}
 
 This workshop was held before students had begun to think about the writing component of the course, and it seemed as if the students had to be reminded of the lessons of the workshop when they actually wrote their papers. In future semesters, we plan to offer the writing workshop closer to the time that students are drafting their first paper. We may also focus the examples used in the workshop on the few most important points rather than a broad coverage.
 
@@ -78,4 +82,4 @@ This workshop was held before students had begun to think about the writing comp
 
 This video features the writing workshop from Spring 2013 and includes instruction from Haynes as well as excerpts of the class discussion.
 
-[Next: Revision and Feedback »]({{< baseurl >}}/pages/writing/revision-and-feedback)
+{{% resource_link 8ec3e99d-a6f3-dfc0-93ba-e5789366aed0 "Next: Revision and Feedback »" %}}

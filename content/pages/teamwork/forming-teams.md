@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section provides observations on the different approaches to team
+  formations that were used in the course.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Teamwork
+parent_type: CourseSection
 parent_uid: 1790141c-cb89-cb9c-3927-269166af5cac
 title: Forming Teams
 uid: 2edd45cf-e176-acaf-956e-1caebc5239e0
 ---
 
-[« Previous: Teamwork]({{< baseurl >}}/pages/teamwork)
+{{% resource_link 1790141c-cb89-cb9c-3927-269166af5cac "« Previous: Teamwork" %}}
 
 The two main strategies that have been used to divide students into teams are described below.
 
@@ -44,4 +49,4 @@ The procrastination index played a secondary role. We were unable to match those
 
 Creating nine reasonable teams was a challenging process and took quite a bit of effort, so we were pleased and relieved that the teams worked extraordinarily well. Members of a given team seemed to have surprisingly compatible characteristics when we saw them in person. Even groups we were concerned about managed to produce papers on time and collaborate with each other. In retrospect, it seemed that the three weakest students were grouped into a single team, which raises a fairness question; if these students had been spread out, they might have learned more and gotten better grades. We would like to try the instructor-formed teams a few more times and see how it works, but we suspect that it is the right way to form teams for the course.
 
-[« Previous: Teamwork]({{< baseurl >}}/pages/teamwork)
+{{% resource_link 1790141c-cb89-cb9c-3927-269166af5cac "« Previous: Teamwork" %}}

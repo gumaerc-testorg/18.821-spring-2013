@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: In this section, Prof. Haynes Miller and Susan Ruff describe how students
+  receive feedback on their writing and what is expected from students during the
+  revision process.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Writing
+parent_type: CourseSection
 parent_uid: cc51014f-c167-ecae-32e3-b7759a8b851d
 title: Revision and Feedback
 uid: 8ec3e99d-a6f3-dfc0-93ba-e5789366aed0
 ---
 
-[« Previous: Writing]({{< baseurl >}}/pages/writing) | [Next: Sample Student Papers »]({{< baseurl >}}/pages/writing/sample-student-papers)
+{{% resource_link cc51014f-c167-ecae-32e3-b7759a8b851d "« Previous: Writing" %}} | {{% resource_link 17bb2e38-7431-d4ad-29c7-4334834f27fa "Next: Sample Student Papers »" %}}
 
 _In this section, Prof. Haynes Miller and Susan Ruff describe how students receive feedback on their writing and what is expected from students during the revision process._
 
@@ -36,4 +42,4 @@ Self- and Peer-Editing
 
 One of the things we look for in papers for the course is consistency of voice and notation among sections written by different team members. We encourage the students to help each other revise.
 
-[« Previous: Writing]({{< baseurl >}}/pages/writing) | [Next: Sample Student Papers »]({{< baseurl >}}/pages/writing/sample-student-papers)
+{{% resource_link cc51014f-c167-ecae-32e3-b7759a8b851d "« Previous: Writing" %}} | {{% resource_link 17bb2e38-7431-d4ad-29c7-4334834f27fa "Next: Sample Student Papers »" %}}

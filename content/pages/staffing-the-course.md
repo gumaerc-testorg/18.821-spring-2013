@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: In this section, Prof. Haynes Miller and Susan Ruff describe the responsibilities
+  of each member of the course team, as well as the rationale for changing the course
+  staff from term to term.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Staffing the Course
 uid: 36bb3771-5bb7-c4c1-610a-c4293a1af273
 ---

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a brief introduction to this course, the first
+  day of class, and the content covered in the following course pages.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Introduction
 uid: ec2313d3-69de-47df-dd15-cbe8027159c3
 ---
@@ -29,7 +33,7 @@ Site Introduction
 
 This course site is intended for a specific audience: _educators_ interested in creating math research-type experiences for their students. The type of experience described here is accessible in some form to students in a range of environments, from high school to undergraduate and early graduate mathematics programs, as well as teacher education programs.
 
-This course site is built upon descriptions and commentary from two key instructors of the Spring 2013 offering of the course: Prof. Haynes Miller, the lead instructor, and Susan Ruff, the communication instructor. In each section, they describe not only how the course operated but also why various decisions were made, successful and unsuccessful policies, and the students’ experiences. These sections, which can be accessed via the navigation panel along the left side of this page, include [Logistics]({{< baseurl >}}/pages/logistics), [Calendar]({{< baseurl >}}/pages/calendar), [Staffing the Course]({{< baseurl >}}/pages/staffing-the-course), [Mathematical Work]({{< baseurl >}}/pages/mathematical-work), [Teamwork]({{< baseurl >}}/pages/teamwork), [Writing]({{< baseurl >}}/pages/writing), [Presentations]({{< baseurl >}}/pages/presentations), [Grading]({{< baseurl >}}/pages/grading), and [Related Resources]({{< baseurl >}}/pages/related-resources). Wherever possible, course materials are included for reuse or adaptation.
+This course site is built upon descriptions and commentary from two key instructors of the Spring 2013 offering of the course: Prof. Haynes Miller, the lead instructor, and Susan Ruff, the communication instructor. In each section, they describe not only how the course operated but also why various decisions were made, successful and unsuccessful policies, and the students’ experiences. These sections, which can be accessed via the navigation panel along the left side of this page, include {{% resource_link bec96c2a-820c-0001-3acc-6c35fa9d840f "Logistics" %}}, {{% resource_link 69676efe-fd0b-844f-5e6f-8555a8c9f2ef "Calendar" %}}, {{% resource_link 36bb3771-5bb7-c4c1-610a-c4293a1af273 "Staffing the Course" %}}, {{% resource_link f21a7861-47b6-486b-a460-278ead9efa0a "Mathematical Work" %}}, {{% resource_link 1790141c-cb89-cb9c-3927-269166af5cac "Teamwork" %}}, {{% resource_link cc51014f-c167-ecae-32e3-b7759a8b851d "Writing" %}}, {{% resource_link 85842b7f-8825-8ff1-fd12-52420523d316 "Presentations" %}}, {{% resource_link 6d3bec05-d850-9c0b-0589-06d3c7fcaed0 "Grading" %}}, and {{% resource_link bbed0b6c-69d3-1968-3035-f0a8f3754621 "Related Resources" %}}. Wherever possible, course materials are included for reuse or adaptation.
 
 Course History
 --------------
