@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding presentation rubric.
 file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/0378405347bea05b8b570414ab24c0d4_MIT18_821S13_pres_rubric.pdf
+file_size: 104352
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

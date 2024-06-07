@@ -5,6 +5,7 @@ description: "The ways students sorted themselves varied from a bubble sort, swa
   \ a set of people who were already sorted into the correct order. Image courtesy\
   \ of MIT OpenCourseWare.\r\n"
 file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/5bb2b93292754baa21260c2fbc1503e1_icebreaker4-sort.jpg
+file_size: 17757
 file_type: image/jpeg
 image_metadata:
   caption: The ways students sorted themselves varied from a bubble sort, swapping
