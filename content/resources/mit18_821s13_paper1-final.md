@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding paper 1.
 file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/762c9018ac1342d603fcacd59ad853b1_MIT18_821S13_paper1-final.pdf
+file_size: 412835
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

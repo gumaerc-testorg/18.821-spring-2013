@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding paper 1.
 file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/0e6ab1ac1b3d09776b0c7b2eb795c184_MIT18_821S13_paper1-haynes.pdf
+file_size: 3737805
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,7 @@ description: "After being divided into teams, students were given time to discus
   \ strategy briefly before the actual activity. Image courtesy of MIT OpenCourseWare.\r\
   \n"
 file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/3e10bc5f134661224895e46338c7c470_icebreaker1-strategy.jpg
+file_size: 16874
 file_type: image/jpeg
 image_metadata:
   caption: After being divided into teams, students were given time to discuss strategy
