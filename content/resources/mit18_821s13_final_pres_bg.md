@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Background image of student final presentation video. '
 file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/15f533fa406f33dc7becae06095027cd_MIT18_821S13_final_pres_bg.jpg
+file_size: 99917
 file_type: image/jpeg
 image_metadata:
   caption: ''
