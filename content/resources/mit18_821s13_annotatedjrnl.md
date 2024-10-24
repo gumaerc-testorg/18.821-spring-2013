@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding an annotated journal article.
-file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/7c76f6f1dfa05c17e5b5adf9545e5944_MIT18_821S13_annotatedjrnl.pdf
+file: /ol-ocw-studio-app/courses/18-821-project-laboratory-in-mathematics-spring-2013/7c76f6f1dfa05c17e5b5adf9545e5944_MIT18_821S13_annotatedjrnl.pdf
 file_size: 728491
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file regarding beamer.
-file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/f7828be57fa0bb986e9f506a5c22d2d5_beamer_template.tex
+file: /ol-ocw-studio-app/courses/18-821-project-laboratory-in-mathematics-spring-2013/f7828be57fa0bb986e9f506a5c22d2d5_beamer_template.tex
 file_size: 2226
 file_type: text/x-tex
 learning_resource_types: []
