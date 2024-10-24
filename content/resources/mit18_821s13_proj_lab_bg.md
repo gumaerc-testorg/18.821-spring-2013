@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Background image of introductory video.
-file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/621ae3f63d182036e64588b094f37045_MIT18_821S13_proj_lab_bg.jpg
+file: /ol-ocw-studio-app/courses/18-821-project-laboratory-in-mathematics-spring-2013/621ae3f63d182036e64588b094f37045_MIT18_821S13_proj_lab_bg.jpg
 file_size: 105042
 file_type: image/jpeg
 image_metadata:
