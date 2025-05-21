@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding paper 2.
-file: /ol-ocw-studio-app/courses/18-821-project-laboratory-in-mathematics-spring-2013/0ddddd0cd8e30cd7d832c482f8b386d6_MIT18_821S13_paper2-haynes.pdf
+file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/0ddddd0cd8e30cd7d832c482f8b386d6_MIT18_821S13_paper2-haynes.pdf
 file_size: 2794657
 file_type: application/pdf
 learning_resource_types: []

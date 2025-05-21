@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding paper rubric.
-file: /ol-ocw-studio-app/courses/18-821-project-laboratory-in-mathematics-spring-2013/a54572cb41e157d0d0668d21b9b4e810_MIT18_821S13_paper_rubF13.pdf
+file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/a54572cb41e157d0d0668d21b9b4e810_MIT18_821S13_paper_rubF13.pdf
 file_size: 103746
 file_type: application/pdf
 learning_resource_types: []

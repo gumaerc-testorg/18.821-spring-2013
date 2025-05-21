@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding number squares.
-file: /ol-ocw-studio-app/courses/18-821-project-laboratory-in-mathematics-spring-2013/c9ba2d0a6090fd2c6f55391ef27c1756_MIT18_821S13_pjct_num_sq.pdf
+file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/c9ba2d0a6090fd2c6f55391ef27c1756_MIT18_821S13_pjct_num_sq.pdf
 file_size: 123790
 file_type: application/pdf
 learning_resource_types: []

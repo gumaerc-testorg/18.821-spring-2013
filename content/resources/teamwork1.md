@@ -2,7 +2,7 @@
 content_type: resource
 description: A team of students working together on mathematical exploration of their
   research topic. Image courtesy of MIT OpenCourseWare.
-file: /ol-ocw-studio-app/courses/18-821-project-laboratory-in-mathematics-spring-2013/c4c2f62311ab80dbed8d198c9f40966b_teamwork1.jpg
+file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/c4c2f62311ab80dbed8d198c9f40966b_teamwork1.jpg
 file_size: 23775
 file_type: image/jpeg
 image_metadata:

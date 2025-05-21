@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding notes on writing mathematics.
-file: /ol-ocw-studio-app/courses/18-821-project-laboratory-in-mathematics-spring-2013/f6ac4c7f88f9d3940b6d8511ef55e386_MIT18_821S13_writingnotes.pdf
+file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/f6ac4c7f88f9d3940b6d8511ef55e386_MIT18_821S13_writingnotes.pdf
 file_size: 191852
 file_type: application/pdf
 learning_resource_types: []
