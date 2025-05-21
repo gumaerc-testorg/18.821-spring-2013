@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains notes on the presentations delivered during the
   presentation workshop.
-file: /ol-ocw-studio-app/courses/18-821-project-laboratory-in-mathematics-spring-2013/b416e04e69c8f05549acfa3af11bef22_MIT18_821S13_presentwkspnotes.pdf
+file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/b416e04e69c8f05549acfa3af11bef22_MIT18_821S13_presentwkspnotes.pdf
 file_size: 53717
 file_type: application/pdf
 learning_resource_types: []

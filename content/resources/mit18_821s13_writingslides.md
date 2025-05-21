@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding the 18.821 project report.
-file: /ol-ocw-studio-app/courses/18-821-project-laboratory-in-mathematics-spring-2013/7f3b869f0133f516706c8266c1692376_MIT18_821S13_writingslides.pdf
+file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/7f3b869f0133f516706c8266c1692376_MIT18_821S13_writingslides.pdf
 file_size: 398518
 file_type: application/pdf
 learning_resource_types: []
