@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Background image of first class session video. '
-file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/9b70a7a49cb3a7437a2117523ff79493_MIT18_821S13_first_class_bg.jpg
+file: /ol-ocw-studio-app/courses/18-821-project-laboratory-in-mathematics-spring-2013/9b70a7a49cb3a7437a2117523ff79493_MIT18_821S13_first_class_bg.jpg
 file_size: 82588
 file_type: image/jpeg
 image_metadata:

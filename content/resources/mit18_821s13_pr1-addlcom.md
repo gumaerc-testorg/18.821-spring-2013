@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding paper 1.
-file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/0aa5309bce146a8cdb17b24dc405ca9c_MIT18_821S13_pr1-addlcom.pdf
+file: /ol-ocw-studio-app/courses/18-821-project-laboratory-in-mathematics-spring-2013/0aa5309bce146a8cdb17b24dc405ca9c_MIT18_821S13_pr1-addlcom.pdf
 file_size: 69357
 file_type: application/pdf
 learning_resource_types: []

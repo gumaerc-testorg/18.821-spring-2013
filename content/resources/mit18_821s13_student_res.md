@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding student response.
-file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/89a49782a2cb40206b386a342f999c02_MIT18_821S13_student_res.pdf
+file: /ol-ocw-studio-app/courses/18-821-project-laboratory-in-mathematics-spring-2013/89a49782a2cb40206b386a342f999c02_MIT18_821S13_student_res.pdf
 file_size: 881061
 file_type: application/pdf
 learning_resource_types: []
