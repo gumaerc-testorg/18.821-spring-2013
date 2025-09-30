@@ -61,13 +61,13 @@ The following PDF, TeX, and Beamer samples guide students to present their work 
 
 The following resources are provided to help students learn and use LaTeX.
 
-LaTeX-Project. "[Obtaining LaTeX](http://www.latex-project.org/ftp.html)." August 28, 2009.
+LaTeX-Project. "{{% resource_link "e1660086-ed0f-4f48-bdd7-e446b6bcef08" "Obtaining LaTeX" %}}." August 28, 2009.
 
 Downes, Michael. ["Short Math Guide for LaTeX." (PDF)](ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-guide.pdf) _American Mathematical Society_. Version 1.09. March 22, 2002.
 
-Oetiker, Tobias, Hubert Partl, et al. ["The Not So Short Introduction to LaTeX 2ε." (PDF)](http://tobi.oetiker.ch/lshort/lshort.pdf) Version 5.01. April 06, 2011.
+Oetiker, Tobias, Hubert Partl, et al. {{% resource_link "771ca3b3-ce03-4e51-a913-698b9a045de3" "\"The Not So Short Introduction to LaTeX 2ε.\" (PDF)" %}} Version 5.01. April 06, 2011.
 
-Reckdahl, Keith. ["Using Imported Graphics in LaTeX and pdfLaTeX." (PDF)](http://tobi.oetiker.ch/lshort/lshort.pdf) Version 3.0.1. January 12, 2006.
+Reckdahl, Keith. {{% resource_link "771ca3b3-ce03-4e51-a913-698b9a045de3" "\"Using Imported Graphics in LaTeX and pdfLaTeX.\" (PDF)" %}} Version 3.0.1. January 12, 2006.
 
 Writing Workshop
 ----------------
