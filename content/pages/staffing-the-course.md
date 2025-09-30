@@ -15,7 +15,7 @@ The course is staffed with:
 
 *   One lead instructor, always a faculty member from the mathematics department
 *   Two co-instructors, typically one postdoctoral researcher and one graduate student from the mathematics department
-*   One communication instructor with background in mathematics and mathematical communication, from [Writing Across the Curriculum](http://cmsw.mit.edu/education/writing-across-the-curriculum/)
+*   One communication instructor with background in mathematics and mathematical communication, from {{% resource_link "7241120b-5500-4576-a4d5-85af308f9e76" "Writing Across the Curriculum" %}}
 
 Having four instructors for a course with 27 students is a serious commitment of resources, but this allows us to provide students with personal mentorship, with encouragement and support as they confront the uncertainties of research, and with feedback and guidance on their presentations and papers.
 
